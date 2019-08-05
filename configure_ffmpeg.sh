@@ -68,6 +68,7 @@ $DEBUG_FLAG \
 --enable-libx264 \
 --enable-zlib \
 --enable-muxer=md5
+ --enable-openssl
 
 popd; popd
 
